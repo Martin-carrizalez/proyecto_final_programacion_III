@@ -1,0 +1,8 @@
+echo ".venv/
+__pycache__/
+*.pyc
+modelo_red.pkl
+modelo_svm.pkl
+modelo_arbol.pkl
+estandarizador.pkl
+meta_cardio.npz" > .gitignore
